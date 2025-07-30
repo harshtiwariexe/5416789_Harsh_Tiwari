@@ -1,0 +1,11 @@
+Alice 25 55000
+Bob 32 48000
+Charlie 28 60000
+David 45 72000
+Eve 22 51000
+Frank 39 45000
+Grace 27 53000
+Heidi 31 49000
+Ivan 29 58000
+Judy 41 61000
+
